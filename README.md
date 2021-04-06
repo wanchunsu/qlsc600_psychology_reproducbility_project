@@ -1,1 +1,1 @@
-# qlsc600_psychology_reproducbility_project
+# qlsc600_psychology_reproducibility_project
