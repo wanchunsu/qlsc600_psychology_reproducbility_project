@@ -1,4 +1,9 @@
-# QLSC Reproducibility Group Project
+# QLSC Reproducibility Group Project:
+
+Wan-Chun, Ting-Yi, Ana
+
+### Attempt to replicate the Psychology Reproducibility Project
+https://github.com/CenterForOpenScience/rpp
 
 ### Versions of packages used in the analyses
 - `R` package: `v4.0.3`
